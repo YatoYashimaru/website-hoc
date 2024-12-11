@@ -1,0 +1,15 @@
+.Background{
+    background-image: repeating-linear-gradient(45deg, cyan, black);
+    height: 100vh;
+    width: auto;
+}
+.Box{
+    border-radius: 9px;
+    box-shadow: 5px;
+    padding: 5%;
+    margin: 10%;
+    background-color: white;
+
+    text-align: center;
+    font-size: 31px;
+}
